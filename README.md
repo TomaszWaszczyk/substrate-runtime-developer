@@ -8,6 +8,8 @@ https://github.com/SubstrateDevAcademy/assignment-1-TomaszWaszczyk
 
 https://github.com/substrate-developer-hub/awesome-substrate
 
+!! https://decoded.polkadot.network/2021submission
+
 -->
 
 https://github.com/SubstrateDevAcademy
