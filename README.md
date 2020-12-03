@@ -6,6 +6,8 @@ Auction: https://medium.com/polkadot-ecosystem-promoteam/what-is-polkadot-parach
 
 https://github.com/SubstrateDevAcademy/assignment-1-TomaszWaszczyk
 
+https://github.com/substrate-developer-hub/awesome-substrate
+
 -->
 
 https://github.com/SubstrateDevAcademy
