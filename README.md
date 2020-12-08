@@ -14,4 +14,4 @@ https://github.com/substrate-developer-hub/awesome-substrate
 
 https://github.com/SubstrateDevAcademy
 
-https://rust-analyzer.github.io/
+https://rust-analyzer.github.io/ (The Matklad)
