@@ -8,6 +8,8 @@ https://github.com/SubstrateDevAcademy/assignment-1-TomaszWaszczyk
 
 https://github.com/substrate-developer-hub/awesome-substrate
 
+https://github.com/open-web3-stack/open-runtime-module-library
+
 !! https://decoded.polkadot.network/2021submission
 
 -->
