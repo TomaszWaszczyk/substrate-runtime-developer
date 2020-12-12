@@ -19,3 +19,5 @@ https://github.com/SubstrateDevAcademy
 https://rust-analyzer.github.io/ (The Matklad)
 
 https://github.com/SubstrateCourse/
+
+https://substrate.dev/recipes/runtime-printing.html#printing-from-the-runtime
