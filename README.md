@@ -14,6 +14,8 @@ https://github.com/open-web3-stack/open-runtime-module-library
 
 -->
 
+https://doc.rust-lang.org/stable/rust-by-example/
+
 https://github.com/SubstrateDevAcademy
 
 https://rust-analyzer.github.io/ (The Matklad)
