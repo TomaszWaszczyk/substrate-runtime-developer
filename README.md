@@ -24,7 +24,7 @@ https://substrate.dev/recipes/runtime-printing.html#printing-from-the-runtime
 
 https://github.com/dtolnay/cargo-expand
 
-# VSCode plugin
+# VSCode plugins
 
 1. https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
 
