@@ -23,3 +23,11 @@ https://github.com/SubstrateCourse/
 https://substrate.dev/recipes/runtime-printing.html#printing-from-the-runtime
 
 https://github.com/dtolnay/cargo-expand
+
+# VSCode plugin
+
+1. https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
+
+2. https://github.com/rust-analyzer/rust-analyzer
+
+3. https://github.com/paritytech/vscode-substrate
