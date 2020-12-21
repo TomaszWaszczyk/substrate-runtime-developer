@@ -1,0 +1,2 @@
+1. There is many "Trait" names, do not you think that the "Trait" should be rather "Config" or something like that?? Or I understand it wrong?
+2. 
