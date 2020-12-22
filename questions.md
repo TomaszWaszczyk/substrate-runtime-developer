@@ -2,9 +2,9 @@
 
 #### Q1
 
-There is many "Trait" names, do not you think that the "Trait" name should be rather "Config" or something like that?? Or I understand it wrong? My understaing is that the "Trait" is just "Config", I am right?
+There is many "Trait" names, do not you think that the "Trait" name should be rather "Config" or "Configuration", something like that?? Or I understand it wrong? My understaing is that the "Trait" is just "Config", I am right?
 
-In `/recipes/pallets/check-membership/src/loose/mod.rs` there is:
+In `/recipes/pallets/check-membership/src/loose/mod.rs` there is example:
 
 ```rust
 /// The pallet's configuration trait
@@ -19,3 +19,35 @@ pub trait Trait: system::Trait {
 ```
 
 #### Q2
+
+When I look at the code I got impression that everything in the code is `public`, I am probably wrong, what I do not know? I guess that there is some mechanism which makes the code private.
+
+Example:
+
+```rust
+pub trait Trait: system::Trait {
+	type Event: From<Event<Self>> + Into<<Self as system::Trait>::Event>;
+}
+
+decl_storage! {
+	trait Store for Module<T: Trait> as Token {
+		pub Balances get(fn get_balance): map hasher(blake2_128_concat) T::AccountId => u64;
+
+		pub TotalSupply get(fn total_supply): u64 = 21000000;
+
+		Init get(fn is_init): bool;
+	}
+}
+
+decl_event!(
+	pub enum Event<T>
+	where
+		AccountId = <T as system::Trait>::AccountId,
+	{
+		/// Token was initialized by user
+		Initialized(AccountId),
+		/// Tokens successfully transferred between users
+		Transfer(AccountId, AccountId, u64), // (from, to, value)
+	}
+);
+```
