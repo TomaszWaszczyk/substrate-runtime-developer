@@ -55,3 +55,7 @@ decl_event!(
 ### Q3
 
 There is any difference when I create new account via `dervied account` than let call it non-`dervied account`?
+
+### Q4
+
+Why there is NO SubSocial in fields for on-chain Identity? ;-)
