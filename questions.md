@@ -59,3 +59,11 @@ There is any difference when I create new account via `dervied account` than let
 ### Q4
 
 Why there is NO SubSocial in fields for on-chain Identity? ;-)
+
+---
+
+## Questions on Monday's session
+
+# Q1
+
+What is the flow of the document: https://w3c.github.io/did-core/ I mean.. engines of web browser will implement the standard or it will works on Pallet's site?
