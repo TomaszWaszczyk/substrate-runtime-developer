@@ -76,4 +76,4 @@ There is any relation between `identity` and `did-pallet`?
 
 > This value MUST NOT contain "d", or any other members of the private information class as described in Registration Template. 
 
-What is "d"?
+What is "d"? Just letter??? Why???
