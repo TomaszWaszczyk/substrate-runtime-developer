@@ -71,3 +71,9 @@ What is the flow of the document: https://w3c.github.io/did-core/ I mean.. engin
 # Q2
 
 There is any relation between `identity` and `did-pallet`?
+
+# Q3
+
+> This value MUST NOT contain "d", or any other members of the private information class as described in Registration Template. 
+
+What is "d"?
