@@ -67,3 +67,7 @@ Why there is NO SubSocial in fields for on-chain Identity? ;-)
 # Q1
 
 What is the flow of the document: https://w3c.github.io/did-core/ I mean.. engines of web browser will implement the standard or it will works only on Pallet's site?
+
+# Q2
+
+There is any relation between `identity` and `did-pallet`?
