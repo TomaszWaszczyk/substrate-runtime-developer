@@ -8,6 +8,8 @@ https://github.com/open-web3-stack/open-runtime-module-library
 
 !! https://decoded.polkadot.network/2021submission
 
+https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+
 ---
 
 https://doc.rust-lang.org/stable/rust-by-example/
