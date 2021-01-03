@@ -104,3 +104,7 @@ https://github.com/paritytech/substrate/pull/7599/files#diff-67684005af418e25ff8
 # Q7
 
 Where to start to study VRF? When/use case/situation do I need it, assuming I want to build parachain, I want to know Substrate framework?
+
+# Q8
+
+Any sentence on those three lines: https://github.com/paritytech/substrate/pull/7599/files#diff-426f1e122298e2af0cd2d47a85bfacad3a9728d3bedfcee34545a8b062774c3fR713-R716 ?
