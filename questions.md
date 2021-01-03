@@ -87,3 +87,9 @@ https://github.com/paritytech/substrate-open-working-groups/discussions/2:
 Polkadot wants to connect all activity within the Internet/Polkadot ecosystem via Identity? 
 
 Yay or Nein?
+
+# Q5
+
+https://github.com/substrate-developer-hub/substrate-enterprise-sample/compare/feat/did/trait#diff-bd184702627df6b90e236cf4b37b58d0514e1933a80995e2a5530dd2138f6dcfR18 ->
+
+What is "Default"?
