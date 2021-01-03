@@ -86,4 +86,4 @@ https://github.com/paritytech/substrate-open-working-groups/discussions/2:
 
 Polkadot wants to connect all activity within the Internet/Polkadot ecosystem via Identity? 
 
-Yes or No
+Yay or Nein?
