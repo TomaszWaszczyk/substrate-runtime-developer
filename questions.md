@@ -77,3 +77,13 @@ There is any relation between `identity` and `did-pallet`?
 > This value MUST NOT contain "d", or any other members of the private information class as described in Registration Template. 
 
 What is "d"? Just letter??? Why???
+
+# Q4
+
+https://github.com/paritytech/substrate-open-working-groups/discussions/2:
+
+> Identity systems become unethical when they link users activities online in ways the user does not expect, which includes pressuring users to give unnecessarily information or unnecessarily link their activities.
+
+Polkadot wants to connect all activity within the Internet/Polkadot ecosystem via Identity? 
+
+Yes or No
