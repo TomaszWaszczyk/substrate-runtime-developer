@@ -99,3 +99,8 @@ What is "Default"?
 > Instance1, what is that???
 
 https://github.com/paritytech/substrate/pull/7599/files#diff-67684005af418e25ff88c2ae5b520f0c040371f1d817e03a3652e76b9485224aR610
+
+
+# Q7
+
+Where to start to study VRF? When/use case/situation do I need it, assuming I want to build parachain, I want to know Substrate framework?
