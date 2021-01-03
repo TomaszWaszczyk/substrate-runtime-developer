@@ -93,3 +93,9 @@ Yay or Nein?
 https://github.com/substrate-developer-hub/substrate-enterprise-sample/compare/feat/did/trait#diff-bd184702627df6b90e236cf4b37b58d0514e1933a80995e2a5530dd2138f6dcfR18 ->
 
 What is "Default"?
+
+# Q6
+
+> Instance1, what is that???
+
+https://github.com/paritytech/substrate/pull/7599/files#diff-67684005af418e25ff88c2ae5b520f0c040371f1d817e03a3652e76b9485224aR610
