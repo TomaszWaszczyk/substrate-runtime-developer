@@ -53,4 +53,8 @@ Debug: Do I need some files to debug?
 
 ![alt text](./resources/debug-rust.png)
 
+# Q10
 
+How to build the wasm?
+
+![alt text](./resources/build-wasm.png)
