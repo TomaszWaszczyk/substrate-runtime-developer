@@ -10,6 +10,8 @@ There is any relation between `identity` and `did-pallet`?
 
 # Q3
 
+I re-read it and I know, I forgot to add the source of the text below (mea culpa).
+
 > This value MUST NOT contain "d", or any other members of the private information class as described in Registration Template. 
 
 What is "d"? Just letter??? Why???
@@ -44,3 +46,11 @@ Where to start to study VRF? When/use case/situation do I need it, assuming I wa
 # Q8
 
 Any sentence on those three lines: https://github.com/paritytech/substrate/pull/7599/files#diff-426f1e122298e2af0cd2d47a85bfacad3a9728d3bedfcee34545a8b062774c3fR713-R716 ?
+
+# Q9
+
+Debug: Do I need some files to debug?
+
+![alt text](./resources/debug-rust.png)
+
+
