@@ -58,3 +58,7 @@ Debug: Do I need some files to debug?
 How to build the wasm?
 
 ![alt text](./resources/build-wasm.png)
+
+---
+
+`kitty.0[0] = 1;` ???
