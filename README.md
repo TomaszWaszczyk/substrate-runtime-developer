@@ -1,5 +1,7 @@
 # substrate-runtime-developer
 
+Book: https://w3f.github.io/parachain-implementers-guide/whence-parachains.html
+
 Auction: https://medium.com/polkadot-ecosystem-promoteam/what-is-polkadot-parachain-auction-and-how-it-will-reveal-the-hidden-power-of-the-polkadot-f4fc5edc3d20 
 
 https://github.com/substrate-developer-hub/awesome-substrate
