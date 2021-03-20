@@ -2,6 +2,8 @@
 
 https://www.shawntabrizi.com/substrate-js-utilities/codec/
 
+https://szulborski.eu/wymiana-kluczy-ssh-na-ed25519/
+
 Book: https://w3f.github.io/parachain-implementers-guide/whence-parachains.html
 
 Auction: https://medium.com/polkadot-ecosystem-promoteam/what-is-polkadot-parachain-auction-and-how-it-will-reveal-the-hidden-power-of-the-polkadot-f4fc5edc3d20 
