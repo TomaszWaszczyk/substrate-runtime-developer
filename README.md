@@ -1,5 +1,7 @@
 # substrate-runtime-developer
 
+https://github.com/substrate-developer-hub/substrate-pallet-template
+
 https://docs.patract.io/en/
 
 https://www.shawntabrizi.com/substrate-js-utilities/codec/
