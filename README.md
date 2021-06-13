@@ -29,6 +29,7 @@ Parachain's logic is encoded by wasm blob. Compiling and executing it can be tim
 That's not the primary reason why I am asking though. The question of what kernel versions are in the wild is already popped up a few times before. This is because it is generally useful to know what kind of Linux features we can or cannot target.
 
 https://man7.org/linux/man-pages/man2/userfaultfd.2.html
+https://www.redhat.com/sysadmin/cgroups-part-one
 ```
 
 
