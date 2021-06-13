@@ -24,6 +24,16 @@ https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
 
 ---
 
+```
+Parachain's logic is encoded by wasm blob. Compiling and executing it can be time consuming. There is an interest in sandboxing the execution pipeline. Specifically, in the number of physical memory consumed. There is RLIMIT_RSS but that was retired long time ago. A mechanism like cgroups can help with this. cgroups can be v1 and v2. We would like to know, should we focus on one of those or do we need both. v2 adoption speed in general is quite slow.
+That's not the primary reason why I am asking though. The question of what kernel versions are in the wild is already popped up a few times before. This is because it is generally useful to know what kind of Linux features we can or cannot target.
+
+https://man7.org/linux/man-pages/man2/userfaultfd.2.html
+```
+
+
+---
+
 https://doc.rust-lang.org/stable/rust-by-example/
 
 https://github.com/rust-lang/rustlings
