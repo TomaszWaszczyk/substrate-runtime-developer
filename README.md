@@ -32,6 +32,14 @@ https://man7.org/linux/man-pages/man2/userfaultfd.2.html
 https://www.redhat.com/sysadmin/cgroups-part-one
 ```
 
+# Examples of design pallet
+
+1. https://github.com/open-web3-stack/open-runtime-module-library/issues/8
+2. https://github.com/open-web3-stack/open-runtime-module-library/issues/73
+3. https://github.com/open-web3-stack/open-runtime-module-library/issues/98
+4. https://github.com/open-web3-stack/open-runtime-module-library/issues/194
+5. https://github.com/open-web3-stack/open-runtime-module-library/issues/265
+
 
 ---
 
