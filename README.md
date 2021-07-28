@@ -1,5 +1,7 @@
 # substrate-runtime-developer
 
+https://github.com/paritytech/xcm-format
+
 `WASM_TARGET_DIRECTORY="$(pwd)" make build-full`
 
 https://github.com/substrate-developer-hub/substrate-pallet-template
