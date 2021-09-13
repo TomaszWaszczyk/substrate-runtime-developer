@@ -1,6 +1,6 @@
 # substrate-runtime-developer
 
-https://github.com/paritytech/xcm-format
+XCM format: https://github.com/paritytech/polkadot/blob/master/xcm/src/v2/mod.rs
 
 `WASM_TARGET_DIRECTORY="$(pwd)" make build-full`
 
